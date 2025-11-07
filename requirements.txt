@@ -8,7 +8,6 @@ tensorboard
 librosa
 matplotlib
 numpy==1.26.4
-onnxruntime-gpu
 openpyxl # for saving results to excel
 pandas
 pesq
